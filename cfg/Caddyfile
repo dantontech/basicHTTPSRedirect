@@ -1,0 +1,4 @@
+libberish.com {
+  tls danton@danton.tech
+  redir https://danton.tech
+}
